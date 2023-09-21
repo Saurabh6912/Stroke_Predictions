@@ -3,6 +3,9 @@
 # Stroke_Prediction
 roke prediction using Machine learning with visualization using python.
 
+# Live Application
+https://f8e4dd611d9d4027eb.gradio.live/
+
 ## Overview
 Welcome to the Brain Stroke Prediction project! This repository contains a machine learning model that aims to predict the likelihood of an individual experiencing a brain stroke based on various health and demographic factors. Brain strokes, also known as cerebrovascular accidents (CVAs), are a critical medical condition that requires prompt attention and treatment.
 
