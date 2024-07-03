@@ -35,7 +35,7 @@ The predictive model is trained on a well-curated dataset containing anonymized 
 ## Model
 Our machine learning model is based on a supervised learning algorithm, carefully trained on the labeled dataset. We utilized a EDA with combination of feature engineering, data preprocessing, visualization etc and with use of hyperparameter tuning to optimize the model's performance. As a result, it can accurately classify individuals into two groups: **"at risk of stroke"** and **"not at risk of stroke."**
 
-In a project our predictive model is SVM, i have shown only two models in project but i have tried more then two models and checked the accuracy of them, out of them we found SVM as good model and easy to understand so i make it as our final Model.
+In a project our predictive model uses Hybrid Algorithm named as Voting Classifier which combines LR, SVM, KNN, RF and ANN algorithms. I have checked the accuracy of all of them. We combined all models to make accurate predictions on purely unseen data & to balance False positive and False Negative cases.
 
 ## Usage
 
